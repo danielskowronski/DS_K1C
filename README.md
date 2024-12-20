@@ -11,7 +11,7 @@
   - 0.16mm layer
   - 0.20mm layer
 
-### [Creality Generic PLA-CF.orca_filament](orca/Creality Generic PLA-CF.orca_filament)
+### [Creality Generic PLA-CF.orca_filament](orca/Creality%20Generic%20PLA-CF.orca_filament)
 
 Creality Hyper PLA-CF
 
