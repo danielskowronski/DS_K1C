@@ -1,0 +1,2 @@
+*.orca_printer  diff=zip
+*.orca_filament diff=zip
